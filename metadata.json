@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Whack-a-Math Mole",
+  "description": "A fun, fast-paced 'Whack-a-Mole' style game where players solve math problems by hitting the mole with the correct answer. Features a simulated multiplayer environment for up to 40 players.",
+  "requestFramePermissions": []
+}
